@@ -18,4 +18,7 @@ Atualmente, estou focado em:
 
 ---
 
+![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LUCASALVES08&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASALVES08&layout=compact&theme=dark)
+
 > Sempre aprendendo, sempre codando. 💻🔥
