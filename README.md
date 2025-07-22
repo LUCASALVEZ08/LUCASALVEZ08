@@ -22,3 +22,5 @@ Atualmente, estou focado em:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASALVEZ08&layout=compact&theme=dark)
 
 > Sempre aprendendo, sempre codando. 💻🔥
+
+![snake gif](https://github.com/LUCASALVEZ08/LUCASALVEZ08/blob/output/github-snake-dark.svg)
